@@ -5,3 +5,16 @@ html, body {
 canvas {
   display: block;
 }
+
+.dialogue {
+  border: 2px solid;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 24px;
+  width: 200px;
+}
